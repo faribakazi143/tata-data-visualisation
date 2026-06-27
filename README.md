@@ -46,9 +46,25 @@ presentation script](Task4_Presentation_Script.pdf).
 - Sales concentrated in Western Europe — whitespace in the Americas, Asia, and Africa
 - Customer base is relatively evenly spread, not dangerously concentrated
 
+## Key Visuals
+
+**Monthly revenue, 2011** — revenue climbs from September to an autumn peak (~$1.5M in November).
+![Monthly revenue 2011](Q1.png)
+
+**Top 10 countries (excl. UK)** — Netherlands and Ireland lead on both revenue and volume.
+![Top 10 countries excluding UK](Q2.png)
+
+**Top 10 customers** — high-value accounts ranked by revenue, led by one ~$280K customer.
+![Top 10 customers by revenue](Q3.png)
+
+**Units sold by country** — demand map highlighting Western Europe as the expansion shortlist.
+![Units sold by country](Q4.png)
+
 ## Recommendation
-Prioritise proven Western European markets, protect key accounts, and prepare
-operations for the autumn demand peak.
+- **Priority 1: Netherlands & Ireland** — top non-UK markets by revenue and volume; lowest-risk expansion targets.
+- **Priority 2: Germany & France** — proven Western European demand; strong second-wave candidates.
+- **Protect key accounts** — retain top customers while broadening the base to reduce concentration risk.
+- **Prepare for the autumn peak** — scale inventory, staffing, and marketing ahead of the November surge.
 
 ---
 
